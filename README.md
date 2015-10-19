@@ -1,4 +1,4 @@
-# irc-messenger-layot
+# irc-messenger-layout
 
 Terminal layout userscript for messenger.com.
 
